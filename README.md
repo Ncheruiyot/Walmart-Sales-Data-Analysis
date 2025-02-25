@@ -161,4 +161,4 @@ CREATE TABLE IF NOT EXISTS sales (
 );
 ```
 
-For complete SQL queries and analysis, refer to the file.
+For complete SQL queries and analysis, refer to the https://github.com/Ncheruiyot/Walmart-Sales-Data-Analysis/commit/30399b3167d32cc02c8548becf6fbe712da5d93c file.
